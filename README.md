@@ -50,34 +50,34 @@ Feel free to explore my latest projects and live demos!
   <table bordercolor="#30363d">
     <tr>
       <td width="33%" valign="top" align="center">
-        <a href="https://lifeph.netlify.app/"><img src="./lifeph.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
+        <a href="https://lifeph.netlify.app/"><img src="./lifeph.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
         <br/><br/><b><a href="https://lifeph.netlify.app/">LifePH ✨</a></b>
         <p>A mobile application project built with Kotlin.</p>
       </td>
       <td width="33%" valign="top" align="center">
-        <a href="https://kazboost.netlify.app/"><img src="./kazboost.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Kazboost"/></a>
+        <a href="https://kazboost.netlify.app/"><img src="./kazboost.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Kazboost"/></a>
         <br/><br/><b><a href="https://kazboost.netlify.app/">Kazboost 🚀</a></b>
         <p>A performance boost utility.</p>
       </td>
       <td width="33%" valign="top" align="center">
-        <a href="https://reversecurseengineering.netlify.app/"><img src="./RCE.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="RCE"/></a>
+        <a href="https://reversecurseengineering.netlify.app/"><img src="./RCE.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="RCE"/></a>
         <br/><br/><b><a href="https://reversecurseengineering.netlify.app/">Reverse Curse Engineering 🛠️</a></b>
         <p>Deep dive into Ghidra and software manipulation.</p>
       </td>
     </tr>
     <tr>
       <td width="33%" valign="top" align="center">
-        <a href="https://novadeploy.netlify.app/"><img src="./novadeploy.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="NovaDeploy"/></a>
+        <a href="https://novadeploy.netlify.app/"><img src="./novadeploy.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="NovaDeploy"/></a>
         <br/><br/><b><a href="https://novadeploy.netlify.app/">NovaDeploy ☁️</a></b>
         <p>Automated toolings for software deployment.</p>
       </td>
       <td width="33%" valign="top" align="center">
-        <a href="https://omniforgesql.netlify.app/"><img src="./omniforge.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="OmniForge"/></a>
+        <a href="https://omniforgesql.netlify.app/"><img src="./omniforge.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="OmniForge"/></a>
         <br/><br/><b><a href="https://omniforgesql.netlify.app/">OmniForge 🗄️</a></b>
         <p>SQL Database Management systems and architecture.</p>
       </td>
       <td width="33%" valign="top" align="center">
-        <a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Repo-Smartmonitoring-blue?style=for-the-badge&logo=github" alt="Smartmonitoring"/></a>
+        <br/><br/><a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Repo-Smartmonitoring-blue?style=for-the-badge&logo=github" alt="Smartmonitoring"/></a>
         <br/><br/><b><a href="https://github.com/StefanSalvatoreWP/Smartmonitoring">Smartmonitoring 📊</a></b>
         <p>Capstone JavaScript project for monitoring.</p>
       </td>
