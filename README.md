@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-Welcome to my GitHub profile! I am a passionate **Web Developer** focused on creating seamless and dynamic user experiences. 
+Welcome to my GitHub profile! I am a passionate **Developer & 3D Artist** focused on creating seamless web experiences, interactive games, and 3D animations. 
 
-- 🔭 I’m currently working on **Smartmonitoring** & **Vue JS projects**
-- 🌱 I’m currently refining my skills in **Vue.js, PHP, and modern web architecture**
-- 💬 Ask me about **JavaScript, Vue, PHP, and Frontend UI**
+- 🔭 I’m currently working on **Blender Models, Animations, Android & Roblox Games**, alongside **Vue JS projects**
+- 🌱 I’m currently refining my skills in **Game Development, 3D Modeling (Blender), Vue.js, and PHP**
+- 💬 Ask me about **Game Dev, Blender, JavaScript, Vue, PHP, and Frontend UI**
 - ⚡ **Fun fact**: *"If something is going to end doesn't mean you can't enjoy it to the fullest"*
 
 ---
@@ -50,7 +50,7 @@ Feel free to explore my latest projects and live demos!
   <table bordercolor="#30363d">
     <tr>
       <td width="33%" valign="top" align="center">
-        <a href="https://lifeph.netlify.app/"><img src="./image.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
+        <a href="https://lifeph.netlify.app/"><img src="./lifeph.png" width="100%" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
         <br/><br/><b><a href="https://lifeph.netlify.app/">LifePH ✨</a></b>
         <p>A mobile application project built with Kotlin.</p>
       </td>
