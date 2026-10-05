@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Vue.js+%26+PHP+Enthusiast;Crafting+Interactive+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Vue.js+%26+PHP+Enthusiast;Crafting+Interactive+UIs;Game+Dev+%26+3D+Artist" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -49,40 +49,78 @@ Feel free to explore my latest projects and live demos!
 <div align="center">
   <table bordercolor="#30363d">
     <tr>
-      <td width="33%" valign="top" align="center">
-        <a href="https://lifeph.netlify.app/"><img src="./lifeph.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
-        <br/><br/><b><a href="https://lifeph.netlify.app/">LifePH ✨</a></b>
-        <p>A mobile application project built with Kotlin.</p>
+      <td width="50%" valign="top" align="center">
+        <a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/"><img src="./Surelife.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="SureLife Network"/></a>
+        <br/><br/><b><a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/">SureLife Network Global 🌐</a></b>
+        <p>Comprehensive SLC program management & networking platform.</p>
+        <a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
       </td>
-      <td width="33%" valign="top" align="center">
-        <a href="https://kazboost.netlify.app/"><img src="./kazboost.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Kazboost"/></a>
-        <br/><br/><b><a href="https://kazboost.netlify.app/">Kazboost 🚀</a></b>
-        <p>A performance boost utility.</p>
-      </td>
-      <td width="33%" valign="top" align="center">
-        <a href="https://reversecurseengineering.netlify.app/"><img src="./RCE.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="RCE"/></a>
-        <br/><br/><b><a href="https://reversecurseengineering.netlify.app/">Reverse Curse Engineering 🛠️</a></b>
-        <p>Deep dive into Ghidra and software manipulation.</p>
+      <td width="50%" valign="top" align="center">
+        <a href="https://kazfinance.netlify.app/"><img src="./KazFinance.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="KazFinance"/></a>
+        <br/><br/><b><a href="https://kazfinance.netlify.app/">KazFinance 💳</a></b>
+        <p>Modern personal finance tracker and smart budgeting platform.</p>
+        <a href="https://kazfinance.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
     </tr>
     <tr>
-      <td width="33%" valign="top" align="center">
-        <a href="https://novadeploy.netlify.app/"><img src="./novadeploy.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="NovaDeploy"/></a>
+      <td width="50%" valign="top" align="center">
+        <a href="https://lifeph.netlify.app/"><img src="./lifeph.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
+        <br/><br/><b><a href="https://lifeph.netlify.app/">LifePH ✨</a></b>
+        <p>A mobile application project built with Kotlin.</p>
+        <a href="https://lifeph.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <a href="https://kazboost.netlify.app/"><img src="./kazboost.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Kazboost"/></a>
+        <br/><br/><b><a href="https://kazboost.netlify.app/">Kazboost 🚀</a></b>
+        <p>A high-efficiency performance boost utility.</p>
+        <a href="https://kazboost.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <a href="https://reversecurseengineering.netlify.app/"><img src="./RCE.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="RCE"/></a>
+        <br/><br/><b><a href="https://reversecurseengineering.netlify.app/">Reverse Curse Engineering 🛠️</a></b>
+        <p>Deep dive into Ghidra and software reverse engineering manipulation.</p>
+        <a href="https://reversecurseengineering.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <a href="https://novadeploy.netlify.app/"><img src="./novadeploy.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="NovaDeploy"/></a>
         <br/><br/><b><a href="https://novadeploy.netlify.app/">NovaDeploy ☁️</a></b>
-        <p>Automated toolings for software deployment.</p>
+        <p>Automated cloud tooling for modern software deployment.</p>
+        <a href="https://novadeploy.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
-      <td width="33%" valign="top" align="center">
-        <a href="https://omniforgesql.netlify.app/"><img src="./omniforge.png" height="140" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="OmniForge"/></a>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <a href="https://omniforgesql.netlify.app/"><img src="./omniforge.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="OmniForge"/></a>
         <br/><br/><b><a href="https://omniforgesql.netlify.app/">OmniForge 🗄️</a></b>
-        <p>SQL Database Management systems and architecture.</p>
+        <p>SQL database management systems and query architecture.</p>
+        <a href="https://omniforgesql.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
-      <td width="33%" valign="top" align="center">
-        <br/><br/><a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Repo-Smartmonitoring-blue?style=for-the-badge&logo=github" alt="Smartmonitoring"/></a>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Repo-Smartmonitoring-blue?style=for-the-badge&logo=github" alt="Smartmonitoring" height="100" style="border-radius:12px; margin-top:20px;"/></a>
         <br/><br/><b><a href="https://github.com/StefanSalvatoreWP/Smartmonitoring">Smartmonitoring 📊</a></b>
-        <p>Capstone JavaScript project for monitoring.</p>
+        <p>Capstone JavaScript project for real-time monitoring and analytics.</p>
+        <a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanSalvatoreWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="StefanWP's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanSalvatoreWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefanSalvatoreWP&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
