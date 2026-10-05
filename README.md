@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20StefanWP!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20StefanWP!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Vue.js+%26+PHP+Enthusiast;Crafting+Interactive+UIs;Game+Dev+%26+3D+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Passionate+Web+Developer;Vue.js+%26+PHP+Enthusiast;Crafting+Interactive+UIs;Game+Dev+%26+3D+Artist;Building+Next-Gen+Experiences" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding Bot" style="border-radius: 12px; margin: 15px 0;" />
 </div>
 
 <br/>
@@ -16,18 +20,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Welcome to my GitHub profile! I am a passionate **Developer & 3D Artist** focused on creating seamless web experiences, interactive games, and 3D animations. 
 
-- 🔭 I’m currently working on **Blender Models, Animations, Android & Roblox Games**, alongside **Vue JS projects**
-- 🌱 I’m currently refining my skills in **Game Development, 3D Modeling (Blender), Vue.js, and PHP**
-- 💬 Ask me about **Game Dev, Blender, JavaScript, Vue, PHP, and Frontend UI**
-- ⚡ **Fun fact**: *"If something is going to end doesn't mean you can't enjoy it to the fullest"*
+- I’m currently working on **Blender Models, Animations, Android & Roblox Games**, alongside **Vue JS projects**
+- I’m currently refining my skills in **Game Development, 3D Modeling (Blender), Vue.js, and PHP**
+- Ask me about **Game Dev, Blender, JavaScript, Vue, PHP, and Frontend UI**
+- **Fun fact**: *"If something is going to end doesn't mean you can't enjoy it to the fullest"*
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   
@@ -42,7 +46,7 @@ Welcome to my GitHub profile! I am a passionate **Developer & 3D Artist** focuse
 
 ---
 
-### 🚀 Top Projects
+### Top Projects
 
 Feel free to explore my latest projects and live demos!
 
@@ -51,13 +55,13 @@ Feel free to explore my latest projects and live demos!
     <tr>
       <td width="50%" valign="top" align="center">
         <a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/"><img src="./Surelife.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="SureLife Network"/></a>
-        <br/><br/><b><a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/">SureLife Network Global 🌐</a></b>
+        <br/><br/><b><a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/">SureLife Network Global</a></b>
         <p>Comprehensive SLC program management & networking platform.</p>
         <a href="https://newsurelifetest-slcprogram.surelifenetworkglobal.co/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
       </td>
       <td width="50%" valign="top" align="center">
         <a href="https://kazfinance.netlify.app/"><img src="./KazFinance.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="KazFinance"/></a>
-        <br/><br/><b><a href="https://kazfinance.netlify.app/">KazFinance 💳</a></b>
+        <br/><br/><b><a href="https://kazfinance.netlify.app/">KazFinance</a></b>
         <p>Modern personal finance tracker and smart budgeting platform.</p>
         <a href="https://kazfinance.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
@@ -65,13 +69,13 @@ Feel free to explore my latest projects and live demos!
     <tr>
       <td width="50%" valign="top" align="center">
         <a href="https://lifeph.netlify.app/"><img src="./lifeph.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="LifePH"/></a>
-        <br/><br/><b><a href="https://lifeph.netlify.app/">LifePH ✨</a></b>
+        <br/><br/><b><a href="https://lifeph.netlify.app/">LifePH</a></b>
         <p>A mobile application project built with Kotlin.</p>
         <a href="https://lifeph.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
       <td width="50%" valign="top" align="center">
         <a href="https://kazboost.netlify.app/"><img src="./kazboost.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Kazboost"/></a>
-        <br/><br/><b><a href="https://kazboost.netlify.app/">Kazboost 🚀</a></b>
+        <br/><br/><b><a href="https://kazboost.netlify.app/">Kazboost</a></b>
         <p>A high-efficiency performance boost utility.</p>
         <a href="https://kazboost.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
@@ -79,13 +83,13 @@ Feel free to explore my latest projects and live demos!
     <tr>
       <td width="50%" valign="top" align="center">
         <a href="https://reversecurseengineering.netlify.app/"><img src="./RCE.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="RCE"/></a>
-        <br/><br/><b><a href="https://reversecurseengineering.netlify.app/">Reverse Curse Engineering 🛠️</a></b>
+        <br/><br/><b><a href="https://reversecurseengineering.netlify.app/">Reverse Curse Engineering</a></b>
         <p>Deep dive into Ghidra and software reverse engineering manipulation.</p>
         <a href="https://reversecurseengineering.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
       <td width="50%" valign="top" align="center">
         <a href="https://novadeploy.netlify.app/"><img src="./novadeploy.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="NovaDeploy"/></a>
-        <br/><br/><b><a href="https://novadeploy.netlify.app/">NovaDeploy ☁️</a></b>
+        <br/><br/><b><a href="https://novadeploy.netlify.app/">NovaDeploy</a></b>
         <p>Automated cloud tooling for modern software deployment.</p>
         <a href="https://novadeploy.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
@@ -93,13 +97,13 @@ Feel free to explore my latest projects and live demos!
     <tr>
       <td width="50%" valign="top" align="center">
         <a href="https://omniforgesql.netlify.app/"><img src="./omniforge.png" width="100%" style="border-radius:12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="OmniForge"/></a>
-        <br/><br/><b><a href="https://omniforgesql.netlify.app/">OmniForge 🗄️</a></b>
+        <br/><br/><b><a href="https://omniforgesql.netlify.app/">OmniForge</a></b>
         <p>SQL database management systems and query architecture.</p>
         <a href="https://omniforgesql.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
       </td>
       <td width="50%" valign="top" align="center">
         <a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Repo-Smartmonitoring-blue?style=for-the-badge&logo=github" alt="Smartmonitoring" height="100" style="border-radius:12px; margin-top:20px;"/></a>
-        <br/><br/><b><a href="https://github.com/StefanSalvatoreWP/Smartmonitoring">Smartmonitoring 📊</a></b>
+        <br/><br/><b><a href="https://github.com/StefanSalvatoreWP/Smartmonitoring">Smartmonitoring</a></b>
         <p>Capstone JavaScript project for real-time monitoring and analytics.</p>
         <a href="https://github.com/StefanSalvatoreWP/Smartmonitoring"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
       </td>
@@ -109,7 +113,7 @@ Feel free to explore my latest projects and live demos!
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StefanSalvatoreWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="StefanWP's GitHub Stats" />
