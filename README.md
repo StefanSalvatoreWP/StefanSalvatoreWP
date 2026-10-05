@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20StefanWP!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer%20%7C%20React%20Native%20Specialist&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I%27m%20StefanWP!&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Mobile%20and%20Web%20Developer%20-%20React%20Native%20Specialist&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Mobile+Development+%26+React+Native+Specialist;React.js+%26+Modern+Web+Developer;Building+Cross-Platform+Mobile+Apps;Crafting+Interactive+UIs;Game+Dev+%26+3D+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=45&lines=React+Native+%26+Mobile+Developer;React.js+%26+Frontend+Engineer;Cross-Platform+App+Specialist;Game+Dev+%26+3D+Artist" alt="Typing SVG" />
 </div>
 
 <div align="center">
